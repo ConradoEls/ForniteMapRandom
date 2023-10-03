@@ -4,4 +4,4 @@
 
 ### Link
 
-`<link>` : <https://fornite-map-random.vercel.app/>
+`<link>` : <https://fortnite-random-psi.vercel.app/>
