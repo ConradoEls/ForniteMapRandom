@@ -27,11 +27,11 @@ function App() {
           <img
             src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Fortnite_F_lettermark_logo.png"
             className="logo"
-            alt="Fornite logo"
+            alt="Fortnite logo"
           />
         </a>
       </div>
-      <h1>Fornite Random</h1>
+      <h1>Fortnite Random</h1>
       <hr /><br />
       <RandomOptionSelector options={options} />
       <p className="read-the-docs">Developed by Conrado Els</p>
