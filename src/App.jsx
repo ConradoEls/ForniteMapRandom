@@ -23,13 +23,13 @@ function App() {
   return (
     <>
       <div>
-        <a href="https://www.fortnite.com/" target="_blank" rel="noreferrer">
+        {/* <a href="https://www.fortnite.com/" target="_blank" rel="noreferrer">
           <img
             src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Fortnite_F_lettermark_logo.png"
             className="logo"
             alt="Fortnite logo"
           />
-        </a>
+        </a> */}
       </div>
       <h1>Fortnite Random</h1>
       <hr /><br />
