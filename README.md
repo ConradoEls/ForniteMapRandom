@@ -1,8 +1,7 @@
-# React + Vite
+# Fornite Random
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Este repo fue hecho con el fin de facilitar y dar un poco mas de gracia a la hora de elejir el lugar en donde caer en el juego de Fornite, dejando de lado las preferencias y costumbres... esto te obliga a explotar tus habilidades y dejando el destino en manos del azar. 
 
-Currently, two official plugins are available:
+### Link
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+`<link>` : <https://fornite-map-random.vercel.app/>
