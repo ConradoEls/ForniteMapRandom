@@ -10,12 +10,13 @@ const RandomOptionSelector = ({ options }) => {
   };
 
   return (
-    <div>
-      <ul>
+    <div className="container-random">
+    <img src="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/IOOJDEYNGVAJXNAURNE63VA7MQ.jpg" alt="map" className="map" />
+      {/* <ul>
         {options.map((option, index) => (
           <li key={index}>{option}</li>
         ))}
-      </ul>
+      </ul> */}
       <button onClick={selectRandomOption}>RANDOM</button>
       {selectedOption && <h2>Good Game: <h2>{selectedOption}</h2></h2>}
     </div>
