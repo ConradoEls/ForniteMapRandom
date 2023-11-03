@@ -11,7 +11,7 @@ const RandomOptionSelector = ({ options }) => {
 
   return (
     <div className="container-random">
-    <img src="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/IOOJDEYNGVAJXNAURNE63VA7MQ.jpg" alt="map" className="map" />
+    <img src="https://piks.eldesmarque.com/bin/2023/11/01/el_mapa_del_capitulo_1___temporada_5_de_fortnite.jpg" alt="map" className="map" />
       {/* <ul>
         {options.map((option, index) => (
           <li key={index}>{option}</li>
